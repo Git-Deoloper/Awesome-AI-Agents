@@ -25,6 +25,7 @@
 - [🌐 Web & Browser Agents](#-web--browser-agents)
 - [🔧 Tool-Use & Function Calling](#-tool-use--function-calling)
 - [🧠 Memory & Context Management](#-memory--context-management)
+- [🔍 Evaluation & Observability](#-evaluation--observability)
 - [📚 Learning Resources](#-learning-resources)
 - [🎥 Demo Videos & Showcases](#-demo-videos--showcases)
 - [🏠 Self-Hosted & Local Agents](#-self-hosted--local-agents)
@@ -139,6 +140,16 @@
 | [LlamaIndex](https://github.com/run-llama/llama_index) | Data framework for connecting LLMs to external data — essential for RAG-powered agent memory. | ![Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&logo=github) |
 | [Graphiti](https://github.com/getzep/graphiti) | Temporal knowledge graph framework for AI agents to store and reason over evolving facts. | ![Stars](https://img.shields.io/github/stars/getzep/graphiti?style=flat-square&logo=github) |
 | [Ragflow](https://github.com/infiniflow/ragflow) | Open-source RAG engine with deep document understanding for building knowledge-rich agents. | ![Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square&logo=github) |
+
+---
+
+## 🔍 Evaluation & Observability
+
+*Tools for evaluating, tracing, monitoring, and debugging AI agents in development and production.*
+
+| Name | Description | Stars |
+|------|-------------|-------|
+| [Future AGI](https://github.com/future-agi/future-agi) | Open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents. | ![Stars](https://img.shields.io/github/stars/future-agi/future-agi?style=flat-square&logo=github) |
 
 ---
 
