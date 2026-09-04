@@ -56,6 +56,7 @@
 | [MetaGPT](https://github.com/geekan/MetaGPT) | Multi-agent framework that assigns GPT different roles (PM, Architect, Engineer) to solve software tasks. | ![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=flat-square&logo=github) |
 | [Camel](https://github.com/camel-ai/camel) | Communicative Agents framework for large-scale AI society simulation and collaborative problem solving. | ![Stars](https://img.shields.io/github/stars/camel-ai/camel?style=flat-square&logo=github) |
 | [Letta](https://github.com/letta-ai/letta) | Framework for building LLM agents with long-term memory and stateful behavior (formerly MemGPT). | ![Stars](https://img.shields.io/github/stars/letta-ai/letta?style=flat-square&logo=github) |
+| [AIWG](https://github.com/jmagly/aiwg) | Deploys reusable agents, skills, context, and governed workflows across AI coding platforms. | ![Stars](https://img.shields.io/github/stars/jmagly/aiwg?style=flat-square&logo=github) |
 
 ---
 
