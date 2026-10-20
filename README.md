@@ -178,6 +178,7 @@
 | [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) | Lilian Weng (OpenAI) | The most-cited blog post on LLM agents — covers planning, memory, and tool use. |
 | [What are AI Agents?](https://aws.amazon.com/what-is/ai-agents/) | AWS | AWS overview of agent architectures, types, and real-world applications. |
 | [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) | arXiv | Comprehensive academic survey of LLM-based agent architectures and capabilities. |
+| [Falkster AI Agent Army](https://falkster.com/handbook/ai-agent-army) | Falkster | 44 free, ungated AI agent blueprints for product management — each with a prompt, eval rubric, and ship-readiness gate. |
 
 ---
 
