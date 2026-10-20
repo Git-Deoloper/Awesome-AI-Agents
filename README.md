@@ -218,6 +218,7 @@
 | [Flowise](https://github.com/FlowiseAI/Flowise) | Drag-and-drop UI builder for LLM flows, agents, and chatbots — self-hostable and easy to deploy. | ![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat-square&logo=github) |
 | [n8n AI Agents](https://github.com/n8n-io/n8n) | Workflow automation platform with native AI agent nodes — self-host or use cloud. | ![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&logo=github) |
 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | The de-facto gradio web UI for running local LLMs with extensions for agentic behavior. | ![Stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=flat-square&logo=github) |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Local-first, self-hosted runtime for auditable AI agent sessions with MCP tools, approvals, memory, replay, and configurable sandbox backends. | ![Stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=flat-square&logo=github) |
 
 ---
 
