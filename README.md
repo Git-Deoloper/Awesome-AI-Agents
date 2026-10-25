@@ -210,6 +210,7 @@ If you're looking for a tool, go to the relevant section below.
 | [E2B Code Interpreter](https://github.com/e2b-dev/code-interpreter) | Sandboxed execution environment for running code in secure sandboxes. | ![Stars](https://img.shields.io/github/stars/e2b-dev/code-interpreter?style=flat-square) |
 | [Daytona](https://github.com/daytonaio/daytona) | Secure cloud dev environments for AI-generated code execution. | ![Stars](https://img.shields.io/github/stars/daytonaio/daytona?style=flat-square) |
 | [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) | Huge library of tool integrations for agent development in LangChain ecosystems. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
+| [deed.page](https://github.com/f-o-x11/deed-page-skill) | Agent skill and remote MCP server that publish an agent's HTML or static folder to a permanent public URL in one request. | ![Stars](https://img.shields.io/github/stars/f-o-x11/deed-page-skill?style=flat-square) |
 
 ---
 
