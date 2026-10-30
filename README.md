@@ -200,6 +200,7 @@ If you're looking for a tool, go to the relevant section below.
 
 | Name | Description | Stars |
 |------|-------------|-------|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local stdio MCP tools for x402 offers, bounded payments and receipts; Apple Silicon macOS and Node 24. | ![Stars](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=flat-square&logo=github) |
 | [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) | Open standard for connecting AI to tools, data, and systems. | ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square) |
 | [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | Official Python SDK for building MCP servers and clients. | ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat-square) |
 | [Composio](https://github.com/ComposioHQ/composio) | Managed tool integrations for AI agents with authentication and reliability layers. | ![Stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=flat-square) |
