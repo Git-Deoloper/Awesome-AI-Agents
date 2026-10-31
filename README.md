@@ -181,6 +181,7 @@ If you're looking for a tool, go to the relevant section below.
 
 | Name | Description | Stars |
 |------|-------------|-------|
+| [agent-qa](https://vostride.com) | Web and mobile QA through CLI/MCP, with persistent memidex memory, validated self-improvement and reviewable evidence. | ![Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=flat-square&logo=github) |
 | [Browser Use](https://github.com/browser-use/browser-use) | Open-source browser automation and web-interaction framework for AI agents. | ![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square) |
 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | MCP server exposing browser automation for LLM-powered workflows. | ![Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat-square) |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | Browser automation with AI-driven reasoning and computer-vision navigation. | ![Stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square) |
