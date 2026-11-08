@@ -172,6 +172,7 @@ If you're looking for a tool, go to the relevant section below.
 | [Bolt.new](https://bolt.new/) | AI app builder that creates a working stack from natural-language prompts. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
 | [Lovable](https://lovable.dev/) | AI full-stack engineer for turning prompts into deployable apps. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
 | [Windsurf](https://codeium.com/windsurf) | Agentic code editor from Codeium with collaborative coding flows. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
+| [Imagera Code](https://imagera.ai/code) | Terminal AI coding agent that edits code, runs commands and tests, with many models on one paid plan. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
 
 ---
 
