@@ -1,6 +1,6 @@
 # Contributing to Awesome AI Agents 🤖
 
-Thank you for helping make this the best AI agents resource on the internet! Every contribution, no matter how small, is valued and appreciated.
+Thank you for helping make this a useful AI agents directory! Every contribution, no matter how small, is valued and appreciated.
 
 ## Table of Contents
 
@@ -51,7 +51,7 @@ For tools without a public GitHub repository, use:
 
 - ✅ **Directly relevant** to AI agents (frameworks, tools, libraries, learning resources)
 - ✅ **Working link** — points to the official homepage or repository
-- ✅ **Active project** — maintained within the last 12 months (check last commit date)
+- ✅ **Project status** — link evidence of maintenance, or label an educational/historical or archived entry honestly
 - ✅ **Honest description** — no marketing fluff; be accurate and concise (max 150 characters)
 - ✅ **Correct category** — placed in the most appropriate section
 - ✅ **Not a duplicate** — search the list before adding
@@ -79,7 +79,7 @@ If you find a broken link, outdated description, or incorrect information:
 
 - Open an **Issue** with the title `[Fix] Brief description`
 - Include the name of the entry, the current incorrect information, and (if applicable) the correct information
-- We aim to fix broken links within 72 hours
+- Include the observed status or redirect and the date checked; maintainers review issues as time permits.
 
 ---
 
@@ -97,11 +97,11 @@ If you find a broken link, outdated description, or incorrect information:
 
 ## Quality Standards
 
-We aim to be the **highest quality** AI agents list, not the longest one. We may decline entries that:
+We prioritize accurate descriptions and useful official sources. We may decline entries that:
 
 - ❌ Are abandoned (no activity for 2+ years)
 - ❌ Duplicate an existing entry without clear differentiation
-- ❌ Are personal projects with no community traction (exceptions made for genuinely novel tools)
+- ❌ Lack enough documentation or runnable examples to understand their purpose
 - ❌ Are purely promotional (products with no technical merit)
 - ❌ Have descriptions that are inaccurate, vague, or copy-pasted marketing text
 
@@ -114,3 +114,7 @@ All contributors are automatically recognized in the GitHub contributor graph. S
 ---
 
 *By contributing, you agree that your contributions will be licensed under the [Apache 2.0 License](LICENSE).*
+
+## Verify a change
+
+Run `python scripts/check_links.py`. To check public external links too, run `python scripts/check_links.py --remote`. Explain uncertain results rather than removing a tool solely because it rate-limits automated requests. Describe actual capabilities without unsupported performance, popularity, privacy, or cost claims.

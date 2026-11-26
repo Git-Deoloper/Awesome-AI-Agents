@@ -2,18 +2,17 @@
 
 # 🤖 Awesome AI Agents
 
-<img src="https://raw.githubusercontent.com/Git-Deoloper/Awesome-AI-Agents/main/assets/banner.svg" alt="Awesome AI Agents Banner" width="100%"/>
+<img src="assets/banner.svg" alt="Awesome AI Agents: explore, compare, build" width="100%"/>
 
-> The most curated directory of AI agent tools, frameworks, libraries, memory systems, coding agents, browser agents, and self-hosted stacks in 2026.
+> A community-maintained directory of AI agent frameworks, developer tools, local runtimes, and research resources.
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/Git-Deoloper/Awesome-AI-Agents?style=flat-square&color=yellow)](https://github.com/Git-Deoloper/Awesome-AI-Agents/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
-[![Updated Monthly](https://img.shields.io/badge/Updated-Monthly-blue?style=flat-square)](https://github.com/Git-Deoloper/Awesome-AI-Agents/commits/main)
 [![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg?style=flat-square)](LICENSE)
-[![Last Refresh](https://img.shields.io/badge/Last%20Refresh-October%202026-orange?style=flat-square)](https://github.com/Git-Deoloper/Awesome-AI-Agents/commits/main)
+[![Contributions](https://img.shields.io/badge/Contributions-welcome-blue?style=flat-square)](CONTRIBUTING.md)
 
-> 🗓️ Updated monthly • curated for real-world usefulness, active maintenance, and relevance
+> Reviewed descriptions and repository structure: 2026-11-26. Entries are discovery references, not performance rankings.
 
 </div>
 
@@ -21,18 +20,20 @@
 
 ## Why this repo exists
 
-This repository is a curated, high-signal list of the best AI agent tools, frameworks, libraries, and resources available in 2026.
+This repository collects tools and references for exploring AI agents. Inclusion is not an endorsement or a claim that a tool has been independently benchmarked.
 
 It exists to help developers, researchers, founders, and AI builders quickly find:
-- the strongest agent frameworks
-- the best coding agents
+- agent frameworks
+- coding assistants
 - browser and computer-use agents
 - memory and knowledge systems
 - MCP/tool-use ecosystems
 - self-hosted local stacks
 - learning resources and evaluation tools
 
-This repo is for discovery, comparison, and practical decision-making — not hype.
+This repo is for discovery and comparison. It includes open-source, source-available, and commercial tools. A public repository does not by itself establish an open-source license; inspect each project's license, hosting requirements, and current pricing. Free software may still require paid inference or infrastructure.
+
+Historical or archived entries are labeled when identified. Maintenance status and service terms can change; check the linked source before adopting a tool.
 
 ---
 
@@ -48,9 +49,9 @@ If you're looking for a tool, go to the relevant section below.
 
 ---
 
-## Top picks in 2026
+## Starting points (unranked)
 
-### Best overall frameworks
+### Agent frameworks
 - [LangGraph](https://github.com/langchain-ai/langgraph)
 - [AutoGen](https://github.com/microsoft/autogen)
 - [CrewAI](https://github.com/crewAIInc/crewAI)
@@ -58,22 +59,21 @@ If you're looking for a tool, go to the relevant section below.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
 - [PydanticAI](https://github.com/pydantic/pydantic-ai)
 
-### Best coding agents
+### Coding assistants
 - [GitHub Copilot](https://github.com/features/copilot)
-- [Cursor](https://www.cursor.com/)
+- [Cursor](https://cursor.com/)
 - [Claude Code](https://github.com/anthropics/claude-code)
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+- [OpenHands](https://github.com/OpenHands/OpenHands)
 - [Codex CLI](https://github.com/openai/codex)
-- [Aider](https://github.com/paul-gauthier/aider)
+- [Aider](https://github.com/Aider-AI/aider)
 
-### Best browser and computer-use agents
+### Browser and computer-use tools
 - [Browser Use](https://github.com/browser-use/browser-use)
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp)
 - [Skyvern](https://github.com/Skyvern-AI/skyvern)
 - [Stagehand](https://github.com/browserbase/stagehand)
-- [OpenOperator](https://github.com/openoperator/openoperator)
 
-### Best memory and agent knowledge tools
+### Memory and knowledge tools
 - [Mem0](https://github.com/mem0ai/mem0)
 - [Zep](https://github.com/getzep/zep)
 - [Graphiti](https://github.com/getzep/graphiti)
@@ -81,7 +81,7 @@ If you're looking for a tool, go to the relevant section below.
 - [Qdrant](https://github.com/qdrant/qdrant)
 - [Weaviate](https://github.com/weaviate/weaviate)
 
-### Best local/self-hosted systems
+### Local and self-hosted systems
 - [Ollama](https://github.com/ollama/ollama)
 - [Open WebUI](https://github.com/open-webui/open-webui)
 - [Dify](https://github.com/langgenius/dify)
@@ -123,11 +123,11 @@ If you're looking for a tool, go to the relevant section below.
 | [Agno](https://github.com/agno-agi/agno) | Lightweight agent framework with structured reasoning and multi-modal capabilities. | ![Stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat-square) |
 | [Smolagents](https://github.com/huggingface/smolagents) | Minimal, code-first agent framework from Hugging Face. | ![Stars](https://img.shields.io/github/stars/huggingface/smolagents?style=flat-square) |
 | [DSPy](https://github.com/stanfordnlp/dspy) | Stanford framework for optimizing LM pipelines and agentic reasoning. | ![Stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square) |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | Multi-agent system that assigns specialized roles like PM, architect, and engineer. | ![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=flat-square) |
+| [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | Multi-agent system that assigns specialized roles like PM, architect, and engineer. | ![Stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=flat-square) |
 | [Camel](https://github.com/camel-ai/camel) | Communicative AI framework for collaborative multi-agent behavior and simulations. | ![Stars](https://img.shields.io/github/stars/camel-ai/camel?style=flat-square) |
 | [Letta](https://github.com/letta-ai/letta) | Stateful agent framework with long-term memory and persistent behavior. | ![Stars](https://img.shields.io/github/stars/letta-ai/letta?style=flat-square) |
 | [Haystack](https://github.com/deepset-ai/haystack) | RAG-first LLM framework for enterprise AI apps and applications with agents. | ![Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square) |
-| [AgentScope](https://github.com/modelscope/agentscope) | Distributed multi-agent platform from Alibaba ModelScope. | ![Stars](https://img.shields.io/github/stars/modelscope/agentscope?style=flat-square) |
+| [AgentScope](https://github.com/agentscope-ai/agentscope) | Distributed multi-agent platform from Alibaba ModelScope. | ![Stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=flat-square) |
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | Open-source autonomous agent framework with GUI and concurrency features. | ![Stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=flat-square) |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | One of the original autonomous agent projects for goal-driven workflows. | ![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=flat-square) |
 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | Lightweight task-driven agent loop for autonomous planning and execution. | ![Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=flat-square) |
@@ -142,11 +142,11 @@ If you're looking for a tool, go to the relevant section below.
 |------|-------------|-------|
 | [AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversation framework for solving complex workflows. | ![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat-square) |
 | [CrewAI](https://github.com/crewAIInc/crewAI) | Role-based orchestration with collaborative worker agents. | ![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square) |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | Multi-agent software development simulation with role separation. | ![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=flat-square) |
+| [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | Multi-agent software development simulation with role separation. | ![Stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=flat-square) |
 | [Camel](https://github.com/camel-ai/camel) | Communicative agents framework for multi-agent simulations and collaboration. | ![Stars](https://img.shields.io/github/stars/camel-ai/camel?style=flat-square) |
-| [AgentScope](https://github.com/modelscope/agentscope) | Research and production-ready multi-agent system with distributed execution patterns. | ![Stars](https://img.shields.io/github/stars/modelscope/agentscope?style=flat-square) |
-| [Massive Agent Systems](https://github.com/AI4Finance-Foundation/FinRobot) | Large-scale agent ecosystems for domain-specific coordination and tasking. | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=flat-square) |
-| [OpenAI Swarm](https://github.com/openai/swarm) | Lightweight framework for handoffs and agent coordination. | ![Stars](https://img.shields.io/github/stars/openai/swarm?style=flat-square) |
+| [AgentScope](https://github.com/agentscope-ai/agentscope) | Research and production-ready multi-agent system with distributed execution patterns. | ![Stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=flat-square) |
+| [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | Agent framework for financial research and multi-agent workflows. | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=flat-square) |
+| [OpenAI Swarm (historical)](https://github.com/openai/swarm) | Educational handoff framework; its README directs new projects to the OpenAI Agents SDK. | ![Stars](https://img.shields.io/github/stars/openai/swarm?style=flat-square) |
 
 ---
 
@@ -157,21 +157,21 @@ If you're looking for a tool, go to the relevant section below.
 | Name | Description | Stars |
 |------|-------------|-------|
 | [GitHub Copilot](https://github.com/features/copilot) | AI pair programmer and coding assistant for real-world coding workflows. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
-| [Cursor](https://www.cursor.com/) | AI-native code editor built for code generation, fixes, and multi-file editing. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
+| [Cursor](https://cursor.com/) | AI-native code editor built for code generation, fixes, and multi-file editing. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
 | [Claude Code](https://github.com/anthropics/claude-code) | Anthropic's agentic coding CLI working inside your terminal. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Open-source software engineering agent for coding, command execution, and issue resolution. | ![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square) |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | Open-source software engineering agent for coding, command execution, and issue resolution. | ![Stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=flat-square) |
 | [Codex CLI](https://github.com/openai/codex) | OpenAI’s terminal-based coding agent for local and repo-based software development. | ![Stars](https://img.shields.io/github/stars/openai/codex?style=flat-square) |
-| [Aider](https://github.com/paul-gauthier/aider) | AI pair programmer for terminal workflows and git-based repos. | ![Stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=flat-square) |
-| [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | Research and tooling for autonomously resolving GitHub issues in repos. | ![Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=flat-square) |
+| [Aider](https://github.com/Aider-AI/aider) | AI pair programmer for terminal workflows and git-based repos. | ![Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square) |
+| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Research and tooling for autonomously resolving GitHub issues in repos. | ![Stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=flat-square) |
 | [Continue](https://github.com/continuedev/continue) | Open-source AI code assistant for VS Code and JetBrains. | ![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square) |
 | [Cline](https://github.com/cline/cline) | Coding agent for editor workflows with terminal/tool access. | ![Stars](https://img.shields.io/github/stars/cline/cline?style=flat-square) |
 | [Plandex](https://github.com/plandex-ai/plandex) | Terminal-first coding engine for multi-step project work. | ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat-square) |
-| [Goose](https://github.com/block/goose) | Block’s local AI dev agent with tool integrations and workflow automation. | ![Stars](https://img.shields.io/github/stars/block/goose?style=flat-square) |
+| [Goose](https://github.com/aaif-goose/goose) | Block’s local AI dev agent with tool integrations and workflow automation. | ![Stars](https://img.shields.io/github/stars/aaif-goose/goose?style=flat-square) |
 | [Void](https://github.com/voideditor/void) | Open-source AI code editor built for agentic software development. | ![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square) |
 | [Devin](https://devin.ai/) | Autonomous software engineer designed for project completion tasks. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
 | [Bolt.new](https://bolt.new/) | AI app builder that creates a working stack from natural-language prompts. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
 | [Lovable](https://lovable.dev/) | AI full-stack engineer for turning prompts into deployable apps. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
-| [Windsurf](https://codeium.com/windsurf) | Agentic code editor from Codeium with collaborative coding flows. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
+| [Windsurf](https://windsurf.com/) | Code editor with AI-assisted coding workflows. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
 
 ---
 
@@ -187,11 +187,11 @@ If you're looking for a tool, go to the relevant section below.
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | Browser automation with AI-driven reasoning and computer-vision navigation. | ![Stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square) |
 | [AgentQL](https://github.com/tinyfish-io/agentql) | Query language for extracting structured data from webpages for agents. | ![Stars](https://img.shields.io/github/stars/tinyfish-io/agentql?style=flat-square) |
 | [Stagehand](https://github.com/browserbase/stagehand) | AI web automation using Playwright and LLM-based element selection. | ![Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square) |
-| [Firecrawl](https://github.com/mendableai/firecrawl) | Extract, crawl, and transform websites into LLM-ready structured data. | ![Stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=flat-square) |
+| [Firecrawl](https://github.com/firecrawl/firecrawl) | Extract, crawl, and transform websites into LLM-ready structured data. | ![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat-square) |
 | [Crawl4AI](https://github.com/unclecode/crawl4ai) | AI-oriented crawler for collecting web data for RAG and agent systems. | ![Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat-square) |
-| [OpenOperator](https://github.com/openoperator/openoperator) | Open-source browser and computer-use agent framework. | ![Stars](https://img.shields.io/github/stars/openoperator/openoperator?style=flat-square) |
+| [Open Operator (archived)](https://github.com/browserbase/open-operator) | Browserbase web-agent demonstration; archived, with migration information in its README. | ![Stars](https://img.shields.io/github/stars/browserbase/open-operator?style=flat-square) |
 | [Notte](https://github.com/nottelabs/notte) | AI-first browser environment for running web agents in scalable environments. | ![Stars](https://img.shields.io/github/stars/nottelabs/notte?style=flat-square) |
-| [MultiOn](https://www.multion.ai/) | Browser agent service for completing web tasks and workflows autonomously. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
+| [The AGI Company / MultiOn](https://theagi.company/) | Product site reached from the former MultiOn domain; check current availability and terms. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
 
 ---
 
@@ -205,13 +205,13 @@ If you're looking for a tool, go to the relevant section below.
 | [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) | Open standard for connecting AI to tools, data, and systems. | ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square) |
 | [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | Official Python SDK for building MCP servers and clients. | ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat-square) |
 | [Composio](https://github.com/ComposioHQ/composio) | Managed tool integrations for AI agents with authentication and reliability layers. | ![Stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=flat-square) |
-| [Arcade AI](https://github.com/ArcadeAI/arcade-ai) | Tools and infrastructure for exposing reliable agent capabilities. | ![Stars](https://img.shields.io/github/stars/ArcadeAI/arcade-ai?style=flat-square) |
+| [Arcade AI](https://github.com/ArcadeAI/arcade-mcp) | Tools and infrastructure for exposing reliable agent capabilities. | ![Stars](https://img.shields.io/github/stars/ArcadeAI/arcade-mcp?style=flat-square) |
 | [Toolhouse](https://github.com/toolhouseai/toolhouse-sdk-python) | Cloud-native toolkit for tool execution, storage, and orchestration. | ![Stars](https://img.shields.io/github/stars/toolhouseai/toolhouse-sdk-python?style=flat-square) |
 | [Exa](https://github.com/exa-labs/exa-py) | AI-native search infrastructure used by agentic products and assistants. | ![Stars](https://img.shields.io/github/stars/exa-labs/exa-py?style=flat-square) |
 | [Tavily](https://github.com/tavily-ai/tavily-python) | Search API purpose-built for AI agents, retrieval, and grounded research. | ![Stars](https://img.shields.io/github/stars/tavily-ai/tavily-python?style=flat-square) |
 | [E2B Code Interpreter](https://github.com/e2b-dev/code-interpreter) | Sandboxed execution environment for running code in secure sandboxes. | ![Stars](https://img.shields.io/github/stars/e2b-dev/code-interpreter?style=flat-square) |
 | [Daytona](https://github.com/daytonaio/daytona) | Secure cloud dev environments for AI-generated code execution. | ![Stars](https://img.shields.io/github/stars/daytonaio/daytona?style=flat-square) |
-| [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) | Huge library of tool integrations for agent development in LangChain ecosystems. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
+| [LangChain Tools](https://docs.langchain.com/oss/python/integrations/providers/overview) | Huge library of tool integrations for agent development in LangChain ecosystems. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
 | [deed.page](https://github.com/f-o-x11/deed-page-skill) | Agent skill and remote MCP server that publish an agent's HTML or static folder to a permanent public URL in one request. | ![Stars](https://img.shields.io/github/stars/f-o-x11/deed-page-skill?style=flat-square) |
 
 ---
@@ -252,7 +252,7 @@ If you're looking for a tool, go to the relevant section below.
 | [Dify](https://github.com/langgenius/dify) | Open-source platform for building AI flows, apps, and agent workflows. | ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square) |
 | [Flowise](https://github.com/FlowiseAI/Flowise) | Visual builder for workflows, agents, and AI apps. | ![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat-square) |
 | [n8n AI Agents](https://github.com/n8n-io/n8n) | Workflow automation with AI agent features and self-hosting support. | ![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square) |
-| [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | Local web UI for running LLMs with custom extensions and tools. | ![Stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=flat-square) |
+| [Text Generation WebUI](https://github.com/oobabooga/textgen) | Local web UI for running LLMs with custom extensions and tools. | ![Stars](https://img.shields.io/github/stars/oobabooga/textgen?style=flat-square) |
 | [Orkas](https://github.com/Orkas-AI/Orkas) | Local-first desktop AI workforce for planning and multi-agent orchestration. | ![Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=flat-square) |
 
 ---
@@ -265,7 +265,7 @@ If you're looking for a tool, go to the relevant section below.
 |------|-------------|-------|
 | [Langfuse](https://github.com/langfuse/langfuse) | LLM observability and tracing platform for agent workflows and prompts. | ![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square) |
 | [Helicone](https://github.com/Helicone/helicone) | Logging and monitoring stack for LLM and agent usage. | ![Stars](https://img.shields.io/github/stars/Helicone/helicone?style=flat-square) |
-| [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-java) | Standard instrumentation for tracing agent behavior and pipelines. | ![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-java?style=flat-square) |
+| [OpenTelemetry](https://opentelemetry.io/) | Vendor-neutral observability specifications and instrumentation; not an agent-specific SDK. | ![Stars](https://img.shields.io/badge/Stars-N%2FA-lightgrey?style=flat-square) |
 | [Arize Phoenix](https://github.com/Arize-ai/phoenix) | Observability for LLM apps and retrieval pipelines. | ![Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=flat-square) |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | Validation and safety tooling for structured outputs and agent behavior. | ![Stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=flat-square) |
 | [Promptfoo](https://github.com/promptfoo/promptfoo) | LLM evaluation, benchmark, and prompt testing framework. | ![Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square) |
@@ -291,18 +291,18 @@ If you're looking for a tool, go to the relevant section below.
 ### Courses & tutorials
 | Title | Provider | Description |
 |-------|----------|-------------|
-| [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) | DeepLearning.AI | Learn stateful agent workflows and decision-making with LangGraph. |
-| [Multi AI Agent Systems with CrewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) | DeepLearning.AI | Build collaborative multi-agent systems with CrewAI. |
-| [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/) | DeepLearning.AI | Learn patterns for multi-agent coordination and planning. |
-| [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/en/index) | Hugging Face | Practical, free training on modern agent patterns and tooling. |
+| [AI Agents in LangGraph](https://www.deeplearning.ai/courses/ai-agents-in-langgraph) | DeepLearning.AI | Learn stateful agent workflows and decision-making with LangGraph. |
+| [Multi AI Agent Systems with CrewAI](https://www.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai) | DeepLearning.AI | Build collaborative multi-agent systems with CrewAI. |
+| [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen) | DeepLearning.AI | Learn patterns for multi-agent coordination and planning. |
+| [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction) | Hugging Face | Practical, free training on modern agent patterns and tooling. |
 | [LangChain Academy — Intro to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph) | LangChain | Fast intro to graph-based agents and stateful workflows. |
-| [Build Your Own Database Agent](https://www.deeplearning.ai/short-courses/building-your-own-database-agent/) | DeepLearning.AI | Learn to build AI agents that interact with SQL and data systems. |
+| [Build Your Own Database Agent](https://www.deeplearning.ai/courses/building-your-own-database-agent) | DeepLearning.AI | Learn to build AI agents that interact with SQL and data systems. |
 
 ### Blogs & articles
 | Title | Author | Description |
 |-------|--------|-------------|
-| [The Complete Guide to AI Agents](https://www.anthropic.com/engineering/building-effective-agents) | Anthropic | Practical guide to building effective agents with patterns and pitfalls. |
-| [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) | Lilian Weng | One of the best conceptual surveys of agent architectures. |
+| [The Complete Guide to AI Agents](https://www.anthropic.com/research/building-effective-agents) | Anthropic | Practical guide to building effective agents with patterns and pitfalls. |
+| [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) | Lilian Weng | A conceptual survey of agent architectures. |
 | [What are AI Agents?](https://aws.amazon.com/what-is/ai-agents/) | AWS | An overview of what agent systems are and where they fit. |
 | [A Survey on LLM-based Autonomous Agents](https://arxiv.org/abs/2308.11432) | arXiv | Comprehensive academic review of the field. |
 
@@ -310,18 +310,15 @@ If you're looking for a tool, go to the relevant section below.
 
 ## 🎥 Demo Videos & Showcases
 
-*Watch agents in action — demos, walkthroughs, and capability showcases.*
+Use the maintainers' own demonstration pages and README examples. These links replace specific video IDs whose titles and authors were not verified.
 
-| Title | Creator | Description |
-|-------|---------|-------------|
-| [Devin: AI Software Engineer Demo](https://www.youtube.com/watch?v=fjHtjT7GO1c) | Cognition AI | End-to-end software engineering powered by an autonomous agent. |
-| [Claude Computer Use Demo](https://www.youtube.com/watch?v=ODaHJzOyVCQ) | Anthropic | Claude using a computer to complete real tasks. |
-| [AutoGen Studio Demo](https://www.youtube.com/watch?v=RLwyXRVvlNk) | Microsoft | Visual walkthrough of multi-agent interaction and orchestration. |
-| [CrewAI Full Tutorial](https://www.youtube.com/watch?v=sPzc6hMg7So) | Brandon Hancock | Build and deploy a practical CrewAI system. |
-| [Building AI Agents with LangGraph](https://www.youtube.com/watch?v=jGg_1h0qzaM) | LangChain | Official walkthrough of stateful agent workflows. |
-| [OpenAI Swarm Framework](https://www.youtube.com/watch?v=sEqHWN-1VWk) | OpenAI | Fast guide to lightweight multi-agent handoff patterns. |
-| [SWE-agent Demo](https://www.youtube.com/watch?v=CeMtJ3f9rp0) | Princeton NLP | Autonomous issue resolution in code repositories. |
-| [Aider Demo](https://www.youtube.com/watch?v=YPuHAFDJi8A) | Aider | Live coding workflow with AI helping in a terminal. |
+| Project | Official examples and documentation |
+| --- | --- |
+| Stagehand | [Repository examples and documentation](https://github.com/browserbase/stagehand) |
+| Browser Use | [Quick start and demonstrations](https://github.com/browser-use/browser-use) |
+| Aider | [Project documentation](https://aider.chat/) |
+| OpenAI Agents SDK | [Python examples](https://github.com/openai/openai-agents-python/tree/main/examples) |
+| LangGraph | [Repository and linked guides](https://github.com/langchain-ai/langgraph) |
 
 ---
 
@@ -397,8 +394,12 @@ If you are building with AI agents, you should be able to use this repo as a sho
 
 <div align="center">
 
-**Made with ❤️ by the AI community — updated monthly**
+**Maintained through community contributions**
 
 [![Star this repo](https://img.shields.io/github/stars/Git-Deoloper/Awesome-AI-Agents?style=social)](https://github.com/Git-Deoloper/Awesome-AI-Agents)
 
 </div>
+
+## Maintainer checks
+
+Run `python scripts/check_links.py` for local Markdown links and image paths. Add `--remote` to check external HTTP links; timeouts, authentication walls, and rate limits are reported for review and must not be treated as proof that a project is dead. Remote checks are opt-in and do not run automatically in pull-request CI.
